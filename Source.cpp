@@ -29,7 +29,7 @@ NodeType::NodeType(int data)
 	nextPtr = nullptr;
 }
 
-
+// ~~~~~~~~~~~~~~~~~~  ADD DECONSTRUCTOR ~~~~~~~~
 // ~~~~~~~~~~~~~~~~~~  Insert  ~~~~~~~~~~~~~~~~~~ 
 void NodeType::insert(int value)
 {
