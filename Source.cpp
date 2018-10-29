@@ -28,7 +28,7 @@ NodeType::NodeType(int data)
 	info = data;
 	nextPtr = nullptr;
 }
-
+ // Needs CONSTRUCTOR
 
 // ~~~~~~~~~~~~~~~~~~  Insert  ~~~~~~~~~~~~~~~~~~ 
 void NodeType::insert(int value)
